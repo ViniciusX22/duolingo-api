@@ -1,7 +1,7 @@
 {
-  "name": "api-boilerplate",
+  "name": "duolingo-api",
   "version": "1.0.0",
-  "description": "Boilerplate code for an API deployed as Vercel serverless function",
+  "description": "Simple API for Duolingo",
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
